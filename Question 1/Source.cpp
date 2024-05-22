@@ -1,13 +1,15 @@
+
+
 #include <iostream>
 #include "Max.h"
 #define ARRAY_LENGTH 5
 using namespace std;
 
-
+//Write a function called max that returns the max of two int numbers. Then,create a series of overloaded functions with the same name.
 
 int main() {
 
-	// ** Question-1 **
+	
 	cout << "Question-1:" << endl;
 
 	cout << "The max of 9 and 7 is " << max(9, 7) << endl;
