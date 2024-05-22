@@ -1,4 +1,3 @@
-
 #include "Max.h"
 
 // function to return the max of two integers

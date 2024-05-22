@@ -1,4 +1,7 @@
-
+// Group -3
+// Navjeet Kaur
+// Omoshalewa Aderibigbe
+// Gursharan Patial
 
 #include <iostream>
 #include "Max.h"
