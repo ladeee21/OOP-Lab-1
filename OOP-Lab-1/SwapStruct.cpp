@@ -1,9 +1,7 @@
 #include <iostream>
+#include "header.h"
 using namespace std;
 
-struct Location {
-	double latitude, longitude;
-};
 
 
 //Using pointers
