@@ -1,4 +1,5 @@
 #pragma once
+//interface
 
 // declaring functions
 int max(int a, int b);

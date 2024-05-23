@@ -1,6 +1,6 @@
 #pragma once
+//interface 
 
-// declaration of multiply function with three int and two double arguments
-
+//declaring functions
 int multiply(int a, int b, int c );
 double multiply(double a, double b);

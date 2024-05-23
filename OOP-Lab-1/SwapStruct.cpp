@@ -1,11 +1,8 @@
-#include <iostream>
 #include "header.h"
-using namespace std;
+//implementation
 
 
-
-//Using pointers
-
+//function to swap two location structs using pointers
 void swap(Location* Loc1, Location* Loc2)
 {
 	Location temp = *Loc1;
@@ -14,8 +11,8 @@ void swap(Location* Loc1, Location* Loc2)
 
 }
 
-//Using references
 
+//function to swap two location structs using reference
 void swap(Location& Loc1, Location& Loc2)
 {
 	Location temp = Loc1;

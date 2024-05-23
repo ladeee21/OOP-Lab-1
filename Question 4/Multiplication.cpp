@@ -1,4 +1,5 @@
 #include "Multiplication.h"
+//implementation
 
 // function for three int arguments
 int multiply(int a, int b, int c = 1) {

@@ -1,5 +1,7 @@
 #pragma once
+//interface
 
+//declaring functions
 struct Location {
 	double latitude, longitude;
 };

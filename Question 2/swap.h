@@ -1,8 +1,7 @@
 #pragma once
+//interace
 
-//interace of swap function using pointers
+//declaring functions
 void swap(int* a, int* b);
-
-//interface of swap function using reference
 
 void swap(int& a, int& b);
